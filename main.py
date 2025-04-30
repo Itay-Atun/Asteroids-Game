@@ -25,9 +25,5 @@ def main():
         # dt = clock.tick(60) / 1000
 
 
-def fun_main():
-    return True
-
-
 if __name__ == "__main__":
     main()
